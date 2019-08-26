@@ -1,0 +1,15 @@
+{
+  "name": "tic-tak-toi",
+  "version": "1.0.0",
+  "description": "react project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/AdityaKumarJha/tic-tac-toi.git"
+  },
+  "author": "Aditya Kumar Jha",
+  "license": "ISC"
+}
